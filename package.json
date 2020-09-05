@@ -1,0 +1,16 @@
+{
+  "name": "discord-config-storage",
+  "version": "1.0.4",
+  "description": "A per-server configuration for discord.js without using any databases.",
+  "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord.js", "configuration", "discord-config", "per-server config"],
+  "author": "codejabo",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
